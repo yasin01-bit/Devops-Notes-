@@ -59,7 +59,7 @@ cat example.txt
 
 ## Practical example
 
-i practised creating and navifating directories ad creating a file using killerkoda
+i practised creating and navigating directories and creating a file using killerkoda
 
 
 <img width="343" height="286" alt="image" src="https://github.com/user-attachments/assets/6cfd6255-1c96-4b8e-b1ce-07137f7ef62c" />
