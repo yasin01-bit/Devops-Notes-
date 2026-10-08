@@ -78,4 +78,20 @@ i practised creating and navigating directories and creating a file using killer
 
 
 
+## Practical example 2 
+When creating a directory with a space in its name, such as `My project`, the shell treats the space as a separator. Running `mkdir My project` passes two separate arguments, `My` and `project`, so two directories are created instead of one.
+
+To create a single directory called `My project`, wrap the name in quotes:
+
+mkdir "My project"
+
+The quotes tell the shell to treat everything inside them as one argument.
+
+
+
+
+<img width="388" height="272" alt="image" src="https://github.com/user-attachments/assets/7163fd9a-79bd-415c-af2c-a53d818abc8a" />
+
+
+
 
