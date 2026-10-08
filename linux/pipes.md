@@ -40,4 +40,4 @@ Practical Example
   file1 file2 file3 file4
 ```
 
-* This demonstrated how the pipe passed the output from `ls` into `grep`, allowing me to filter the results.
+ This demonstrated how the pipe passed the output from `ls` into `grep`, allowing me to filter the results.
