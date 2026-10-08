@@ -1,37 +1,60 @@
-## Files and Directories
+# Files and Directories
+
 Linux uses files and directories to organise information and data.
 
 ## Directories
+
 A directory is used to organise and contain files and other directories.
 
-## Creating a directory
-mkdir command creates a new directory
+### Creating a directory
 
-## mkdir example
+The `mkdir` command creates a new directory.
 
-## Navigating directories
-The cd command is used to move between directories
+```bash
+mkdir linux-demo
+```
 
-## cd example
+### Navigating directories
 
-The pwd command shows the current working directory
+The `cd` command is used to move between directories.
 
-## Parent directory
-.. represents the parent directory
+```bash
+cd linux-demo
+```
 
-cd .. This moves from the current directory to the directory above it
+The `pwd` command shows the current working directory.
+
+```bash
+pwd
+```
+
+### Parent directory
+
+`..` represents the parent directory. Running `cd ..` moves from the current directory to the directory above it.
+
+```bash
+cd ..
+```
 
 ## Files
-Files can contain information such as text, scripts or other data
 
-The touch command can be used to create empty files
+Files can contain information such as text, scripts or other data.
 
+### Creating a file
+
+The `touch` command can be used to create empty files.
+
+```bash
 touch example.txt
+```
 
-The cat command can be used to display the content of a file cat example.txt
+### Displaying a file
 
-## Practical example
-I practiced creating and navigating directories and creating a file using Killercoda
+The `cat` command can be used to display the content of a file.
+
+```bash
+cat example.txt
+```
 
 
 <img width="343" height="286" alt="image" src="https://github.com/user-attachments/assets/6cfd6255-1c96-4b8e-b1ce-07137f7ef62c" />
