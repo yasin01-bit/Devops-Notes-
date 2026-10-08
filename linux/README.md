@@ -1,7 +1,7 @@
-#Linux Fundamentals
+## Linux Fundamentals
 This section documents my learning and practical work with Linux.
 
-#Topics
+## Topics
 - Basic commands
 - Files and directories
 - Users and groups
@@ -11,5 +11,4 @@ This section documents my learning and practical work with Linux.
 - Finding files
 - Redirection
 - Pipes
-- Practical Learning
-I'm using hands on exercises to practise Linux commands and understand how they work rather than simply memorising commands.
+
