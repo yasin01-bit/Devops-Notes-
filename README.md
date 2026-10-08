@@ -1,4 +1,4 @@
-# DevOps Logbook
+# My DevOps Notes
 
 This repository documents my learning and progress as I develop my DevOps skills. I'm currently working through the DevOps Roadmap, using a combination of structured learning, practical exercises and hands-on challenges.
 
