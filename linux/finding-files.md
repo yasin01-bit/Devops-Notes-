@@ -36,8 +36,36 @@ Practical Example
 <img width="389" height="193" alt="image" src="https://github.com/user-attachments/assets/53088738-31c7-46e2-8555-79bf2b3f3f3f" />
 
 
-I first created a directory called file-search using the mkdir command.
-I then navigated into the directory using the cd command.
-I created three files called file1, file2, file3 using the touch command.
-I used ls to confirm that the files had been created:
-I then used find to search for the file called file2. This command returned ./file2 which shows that the file had been successfully located.
+## Demonstration
+
+I first created a directory called `file-search` using the `mkdir` command.
+
+```bash
+mkdir file-search
+```
+
+I then navigated into the directory using the `cd` command.
+
+```bash
+cd file-search
+```
+
+I created three files called `file1`, `file2` and `file3` using the `touch` command.
+
+```bash
+touch file1 file2 file3
+```
+
+I used `ls` to confirm that the files had been created.
+
+```bash
+ls
+```
+
+I then used `find` to search for the file called `file2`.
+
+```bash
+find . -name "file2"
+```
+
+This command returned `./file2`, which shows that the file had been successfully located.
