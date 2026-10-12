@@ -19,3 +19,12 @@
 - i then used command sudo usermod -aG to give my user sudo privileges
 - i then used su 'command' to log in again, followed by sudo passwd to login with my password which is hidden on the screenshot.
 - i then used sudo apt-get update to complete the set up
+
+
+
+## Revoking user access from sudo privileges
+<img width="439" height="63" alt="image" src="https://github.com/user-attachments/assets/9fab34ab-9ab6-4531-91d1-08138a1d55e0" />
+
+
+
+   - sudo deluser myuser sudo - is the command i used to revoke access 
