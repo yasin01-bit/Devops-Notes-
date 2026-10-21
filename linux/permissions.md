@@ -66,3 +66,13 @@ Practical Example
 
 
 
+  # grouping permissions using symbolic operators example
+  <img width="1910" height="852" alt="image" src="https://github.com/user-attachments/assets/1193c373-404f-46f8-99e0-16f635300e84" />
+
+
+- usser and group were given read and write permissions [ug=rw]
+- Owner was given read permissions [o=r]
+- ls -l was used to show the permissions 
+
+
+
