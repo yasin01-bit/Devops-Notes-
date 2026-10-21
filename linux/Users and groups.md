@@ -5,7 +5,7 @@
 
 
 
-- Here i created a user called 'myuser'
+- Here i created a user called 'myuser' using the useradd command 
 - i then used the 'su' command to log in
 - i got the warning as i have only just created the user, so no file or directory exists for it
 - i then used the 'whoami' command to verify i am a new user on the system
@@ -35,5 +35,5 @@
 <img width="368" height="131" alt="image" src="https://github.com/user-attachments/assets/c4502f92-bd40-4ab3-a368-5355074b7afb" />
 
 - first used 'cat /etc/group' command to identify groups in linux file system
-- i created a group via the 'sudo groupadd' command, (then validated this group is is on linux filesystem and was created by using above command)
+- i created a group via the 'sudo groupadd' command, (then validated this group is on linux filesystem and was created by using above command)
 - Next stage will be creating a user as my last user wasnt saved and then adding this user to my group 
