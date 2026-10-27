@@ -92,6 +92,19 @@ The quotes tell the shell to treat everything inside them as one argument.
 
 <img width="388" height="272" alt="image" src="https://github.com/user-attachments/assets/7163fd9a-79bd-415c-af2c-a53d818abc8a" />
 
+## Hidden files and directories
+
+<img width="671" height="81" alt="image" src="https://github.com/user-attachments/assets/869f2e86-1936-40d6-9cea-c4bb632a5fdc" />
+
+
+
+
+This lists everything in the current directory, including hidden files. You’ll see - in the list.
+
+Reading it: give the path explicitly so it isn’t mistaken for the special -:
+
+
+
 
 
 
