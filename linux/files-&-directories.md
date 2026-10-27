@@ -103,6 +103,14 @@ This lists everything in the current directory, including hidden files. You’ll
 
 Reading it: give the path explicitly so it isn’t mistaken for the special -:
 
+## Reading hidden file
+
+<img width="746" height="88" alt="image" src="https://github.com/user-attachments/assets/fe3fb42d-4cb3-4a7d-ab90-08fb7184031a" />
+
+This lists everything in the current directory, including hidden files. You’ll see - in the list.
+
+Reading it: give the path explicitly so it isn’t mistaken for the special -:
+
 
 
 
