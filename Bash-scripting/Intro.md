@@ -43,15 +43,10 @@ There are two types of comments:
 
 - **Single line comments:** start the line with `#`
 - **Multiline comments:** use `:` followed by text inside single quotation marks `' '`
+  
 
-```bash
-# This is a single line comment
+<img width="1488" height="564" alt="image" src="https://github.com/user-attachments/assets/80b9548e-c731-4366-94fc-37ea8a7c7c75" />
 
-: '
-This is a
-multiline comment
-'
-```
 
 If you run `example.sh` using `./`, the comments will not be shown in the output.
 
